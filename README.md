@@ -10,11 +10,11 @@
 
 ###
 
-<h5 align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning PHP and SQL<br>🎯 Goals: become a good fullstack developer</h5>
+<h5 align="center">✨ Creating bugs since 2022<br>📚 I'm currently learning PHP and SQL<br>🎯 Goals: become a good fullstack developer</h5>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="center">I code with</h2>
 
 ###
 
